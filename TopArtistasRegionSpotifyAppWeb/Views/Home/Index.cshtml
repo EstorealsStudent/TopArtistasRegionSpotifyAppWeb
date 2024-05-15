@@ -1,0 +1,46 @@
+﻿@model List<TopArtistasRegionSpotifyAppWeb.Models.Artistum>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h5>Lista de Artistas</h5>
+    </div>
+    <div class="card-body">
+        <a class="btn btn-success btn-sm" asp-action="Artista_Detalle" asp-controller="Home" asp-route-idArtista="0">Crear Nuevo</a>
+        <hr />
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Artista</th>
+                    <th>Pais</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                        <tr>
+                            <td>@item.Nombre</td>
+                            <td>@item.Opais.Nombre</td>
+                            <td>
+                                        <a class="btn btn-primary btn-sm " asp-action="Artista_Detalle" asp-controller="Home" asp-route-id="@item.Id"> Editar</a>
+                                        <a class="btn btn-danger btn-sm " asp-action="Eliminar" asp-controller="Home" asp-route-id="@item.Id"> Eliminar</a>
+                            </td>
+                        </tr>
+
+
+
+                }
+            </tbody>
+        </table>
+
+
+    </div>
+</div>
