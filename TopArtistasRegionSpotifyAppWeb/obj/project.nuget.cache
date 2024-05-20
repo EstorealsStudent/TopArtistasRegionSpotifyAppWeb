@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "luCdIwTtIT2HewPjHRMLHURnHWTPAbY3lDAPqf9gdvCpeIsIjK0hjR0TJtM0I6wdKGGil+uDJeklfukkRAT27w==",
+  "dgSpecHash": "d7/j+UDH8UKwKAl48/ABT/KTFURLnnfvFalLMLvnPScDJrNSEpJpcBrYm26lvnOpD1iihpLR3eAY+mZQoMVUzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\estor\\OneDrive\\Escritorio\\TopartistasRegion\\TopArtistasRegionSpotifyAppWeb\\TopArtistasRegionSpotifyAppWeb.csproj",
+  "projectFilePath": "C:\\Users\\estor\\OneDrive\\Escritorio\\3.-\\TopArtistasRegionSpotifyAppWeb\\TopArtistasRegionSpotifyAppWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\estor\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\estor\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

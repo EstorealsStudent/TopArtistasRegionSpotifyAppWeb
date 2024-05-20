@@ -11297,11 +11297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\estor\\OneDrive\\Escritorio\\TopartistasRegion\\TopArtistasRegionSpotifyAppWeb\\TopArtistasRegionSpotifyAppWeb.csproj",
+      "projectUniqueName": "C:\\Users\\estor\\OneDrive\\Escritorio\\3.-\\TopArtistasRegionSpotifyAppWeb\\TopArtistasRegionSpotifyAppWeb.csproj",
       "projectName": "TopArtistasRegionSpotifyAppWeb",
-      "projectPath": "C:\\Users\\estor\\OneDrive\\Escritorio\\TopartistasRegion\\TopArtistasRegionSpotifyAppWeb\\TopArtistasRegionSpotifyAppWeb.csproj",
+      "projectPath": "C:\\Users\\estor\\OneDrive\\Escritorio\\3.-\\TopArtistasRegionSpotifyAppWeb\\TopArtistasRegionSpotifyAppWeb.csproj",
       "packagesPath": "C:\\Users\\estor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\estor\\OneDrive\\Escritorio\\TopartistasRegion\\TopArtistasRegionSpotifyAppWeb\\obj\\",
+      "outputPath": "C:\\Users\\estor\\OneDrive\\Escritorio\\3.-\\TopArtistasRegionSpotifyAppWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\estor\\AppData\\Roaming\\NuGet\\NuGet.Config",
